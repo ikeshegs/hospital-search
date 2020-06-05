@@ -1,0 +1,26 @@
+{
+  "name": "hospital-access",
+  "version": "1.0.0",
+  "description": "In this COVID-19 world that we live in, it is important that people can easily access medical assistance if need be. With that in mind, the goal of this challenge is to build an application that can locate all the hospitals within a given area.",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ikechukwu Okoro",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "4.10.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  },
+  "devDependencies": {
+    "@types/node": "14.0.10",
+    "@types/react": "16.9.35",
+    "@types/react-dom": "16.9.8",
+    "ts-loader": "7.0.5",
+    "typescript": "3.9.3",
+    "webpack": "4.43.0",
+    "webpack-cli": "3.3.11"
+  }
+}
